@@ -1,0 +1,10 @@
+.unchecked span {
+    text-decoration: none;
+    color: #fff;
+}
+
+.checked span {
+    text-decoration: line-through;
+    color: gray;
+}
+
